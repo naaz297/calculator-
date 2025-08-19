@@ -1,0 +1,43 @@
+#calculator{
+    border:1px solid rgb(213, 8, 235);
+    border-radius: 5px;
+    width:200px;
+}
+#display{
+    margin:10px;
+    width:85%;
+}
+.button-container{
+   display:flex;
+   justify-content: center;
+ 
+}
+.button{
+    width:40px;
+    height: 40px;
+    margin:3px;
+}
+.containerbutton2{
+    display:flex;
+    justify-content: center;
+       margin:3px;
+
+}
+.button2{
+    width:40px;
+    height:40px;
+    margin:2px;
+}
+.containerbutton3{
+        display:flex;
+    justify-content: center;
+       margin:3px;
+}
+.button3{
+      width:40px;
+    height:40px;
+    margin:2px;
+}
+.body{
+    text-align: center;
+}
